@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">A Modern fullstack Web developer from Pakistan</h3>
+# 👋 Hi, I'm Hammad!  
+**Web Developer | Backend Engineer | AI Enthusiast**
+
+## Building Robust Web Applications & Exploring Agentic AI
+
+I'm a full-stack web developer with expertise in building dynamic web applications and backend systems using Python, FastAPI, Kafka, Docker, Postgres, Docker Compose, and microservices architecture. With a strong foundation in cloud-native technologies, I'm currently offering web application development services to clients while continuously expanding my skill set.
+
+I'm passionate about integrating cutting-edge AI technologies and am actively learning **Langchain** and **LangGraph** to develop agentic AI systems. Always eager to take on new challenges and collaborate on exciting projects!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhammad0&label=Profile%20views&color=0e75b6&style=flat" alt="devhammad0" /> </p>
 
