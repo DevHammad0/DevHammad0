@@ -13,7 +13,7 @@ I'm passionate about integrating cutting-edge AI technologies and am actively le
 
 - 🌱 I’m currently learning **Langchain & Langraph to build Agentic AI Systems**
 
-- 📫 How to reach me **devhammad.m@gmail.com**
+- 📫 How to reach me **mhammad.inbox@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
