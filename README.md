@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hammad!  
-**Web Developer | Backend Engineer | Agentic AI**
+**Agentic AI | Fullstack | Developer**
 
 ## Building Robust Web Applications & Exploring Agentic AI
 
