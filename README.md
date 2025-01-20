@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Hammad!  
 **Agentic AI | Fullstack | Developer**
 
-## Building Robust Web Applications & Exploring Agentic AI
+I specialize in building scalable, efficient, and reliable systems for modern web and AI applications. My journey in tech has been driven by a passion for solving complex challenges and delivering impactful solutions. My work focuses on cloud-native and microservices architecture, delivering efficient and reliable solutions.
 
-I'm a full-stack web developer with expertise in building dynamic web applications and backend systems using Python, FastAPI, Kafka, Docker, Postgres, Docker Compose, and microservices architecture. With a strong foundation in cloud-native technologies, I'm currently offering web application development services to clients while continuously expanding my skill set.
+Core Expertise:
 
-I'm passionate about integrating cutting-edge AI technologies and am actively learning **Langchain** and **LangGraph** to develop agentic AI systems. Always eager to take on new challenges and collaborate on exciting projects!
+- AI Agents: Building advanced AI agents and workflows using frameworks like LangGraph and LangChain.
+- Backend Development: Proficient in Python, FastAPI, SQLModel, and PostgreSQL for designing scalable and robust backend architectures.
+- API Development: Designing and integrating APIs for smooth data flow across systems.
+- Modern UI Development: Developing cutting-edge interfaces with Next.js, TypeScript, and Tailwind CSS for a seamless user experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhammad0&label=Profile%20views&color=0e75b6&style=flat" alt="devhammad0" /> </p>
 
