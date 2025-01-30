@@ -28,4 +28,4 @@ I specialize in building scalable, efficient, and reliable systems for modern we
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhammad0&show_icons=true&locale=en&layout=compact" alt="devhammad0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devhammad0&" alt="devhammad0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devhammad0" alt="devhammad0" /></p>
