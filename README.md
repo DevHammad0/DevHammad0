@@ -14,7 +14,7 @@ I specialize in building scalable, efficient, and reliable systems for modern we
 
 
 
-- 🌱 I’m currently learning and building Agentic AI Systems using LangGraph & Langchain**
+- 🌱 I’m currently learning and building Agentic AI Systems using LangGraph & Langchain
 
 - 📫 How to reach me **mhammad.inbox@gmail.com**
 
