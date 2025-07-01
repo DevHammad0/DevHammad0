@@ -5,7 +5,7 @@ I specialize in building scalable, efficient, and reliable systems for modern we
 
 **Core Expertise:**
 
-- **AI Agents**: Building advanced AI agents and workflows using frameworks like LangGraph and LangChain.
+- **AI Agents**: Building advanced AI agents and workflows using frameworks like OpenAI Agents SDK, LangGraph and LangChain.
 - **Backend Development:** Proficient in Python, FastAPI, SQLModel, and PostgreSQL for designing scalable and robust backend architectures.
 - **API Development:** Designing and integrating APIs for smooth data flow across systems.
 - **Modern UI Development:** Developing cutting-edge interfaces with Next.js, TypeScript, and Tailwind CSS for a seamless user experience.
