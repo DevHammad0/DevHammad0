@@ -1,27 +1,89 @@
-# 👋 Hi, I'm Hammad!  
-**Agentic AI | Fullstack | Developer**
-
-I specialize in building scalable, efficient, and reliable systems for modern web and AI applications. My journey in tech has been driven by a passion for solving complex challenges and delivering impactful solutions. My work focuses on cloud-native and microservices architecture, delivering efficient and reliable solutions.
-
-**Core Expertise:**
-
-- **AI Agents**: Building advanced AI agents and workflows using frameworks like OpenAI Agents SDK, LangGraph and LangChain.
-- **Backend Development:** Proficient in Python, FastAPI, SQLModel, and PostgreSQL for designing scalable and robust backend architectures.
-- **API Development:** Designing and integrating APIs for smooth data flow across systems.
-- **Modern UI Development:** Developing cutting-edge interfaces with Next.js, TypeScript, and Tailwind CSS for a seamless user experience.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devhammad0&label=Profile%20views&color=0e75b6&style=flat" alt="devhammad0" /> </p>
-
-
-
-- 🌱 I’m currently learning and building Agentic AI Systems using LangGraph & Langchain
-
-- 📫 How to reach me **mhammad.inbox@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devhammad0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devhammad0/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+I'm+Hammad;Agentic+AI+Architect;Building+Intelligent+Agents" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <em>I build intelligent agents, chatbots, and automation systems powered by cutting-edge AI.</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/devhammad0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mhammad.inbox@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 🌟 Focus
+
+Designing and deploying **Agentic AI Systems**, specializing in intelligent agents, chatbots, and automation workflows using the OpenAI Agents SDK, LangGraph, and LangChain.
+
+---
+
+## 🛠 Expertise
+
+- **Agentic AI**: OpenAI Agents SDK, LangGraph, LangChain, AI-driven automation  
+- **Chatbots**: Conversational AI, natural language processing, interactive workflows  
+- **Backend**: Python, FastAPI, SQLModel, PostgreSQL  
+- **Frontend**: Next.js, TypeScript, Tailwind CSS  
+- **DevOps**: Docker, GitHub Actions  
+- **APIs**: RESTful API design, integration, and automation  
+
+---
+
+## ⚙️ Tech Stack
+
+<div style="
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 1rem;
+">
+  <!-- Skill icons as individual images -->
+  <img src="https://skillicons.dev/icons?i=python"      width="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi"     width="50" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=postgresql"  width="50" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker"      width="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=js"          width="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts"          width="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react"       width="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs"      width="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind"    width="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs"      width="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=ai"          width="50" alt="AI" />
+  <img src="https://skillicons.dev/icons?i=azure"       width="50" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=kafka"       width="50" alt="Kafka" />
+  <img src="https://skillicons.dev/icons?i=opencv"      width="50" alt="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=npm"         width="50" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=pnpm"        width="50" alt="pnpm" />
+  <img src="https://skillicons.dev/icons?i=powershell"  width="50" alt="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=bash"        width="50" alt="Bash" />
+
+  <!-- Lobehub registry icons -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
+       width="50" alt="OpenAI" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png"
+       width="50" alt="Gemini" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png"
+       width="50" alt="LangChain" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png"
+       width="50" alt="LangGraph" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png"
+       width="50" alt="MCP" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"
+       width="50" alt="Cursor" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devhammad0&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+</p>
