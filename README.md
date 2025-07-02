@@ -78,6 +78,10 @@ Designing and deploying **Agentic AI Systems**, specializing in intelligent agen
 
 ---
 
+![Snake animation](https://github.com/DevHammad0/DevHammad0/blob/output/github-contribution-grid-snake.svg)
+
+---  
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 </p>
