@@ -78,10 +78,22 @@ Designing and deploying **Agentic AI Systems**, specializing in intelligent agen
 
 ---
 
+<blockquote align="center">
+  <em>
+    “The night is long, but the dawn is bright.<br/>
+    The struggle is real, but the reward is great.<br/>
+    The journey is hard, but the destination is worth it.<br/>
+    Learning is the key, and the future is yours.”
+  </em>
+</blockquote>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+  <strong>
+    May this quote inspire you, reminding you that every step toward your goal  
+    is a step closer to a future of your own making.
+  </strong>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devhammad0&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
