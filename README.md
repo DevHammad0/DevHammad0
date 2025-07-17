@@ -61,6 +61,7 @@ Designing and deploying **Agentic AI Systems**, specializing in intelligent agen
   <img src="https://skillicons.dev/icons?i=pnpm"        width="50" alt="pnpm" />
   <img src="https://skillicons.dev/icons?i=powershell"  width="50" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=bash"        width="50" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=postman"        width="50" alt="Postman" />
 
   <!-- Lobehub registry icons -->
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
