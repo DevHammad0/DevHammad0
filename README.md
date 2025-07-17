@@ -33,16 +33,8 @@ Designing and deploying **Agentic AI Systems**, specializing in intelligent agen
 
 ## ⚙️ Tech Stack
 
-<div style="
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  overflow-x: auto;
-  padding: 1rem;
-">
-  <!-- Skill icons as individual images -->
+
+<p>
   <img src="https://skillicons.dev/icons?i=python"      width="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=fastapi"     width="50" alt="FastAPI" />
   <img src="https://skillicons.dev/icons?i=postgresql"  width="50" alt="PostgreSQL" />
@@ -62,21 +54,13 @@ Designing and deploying **Agentic AI Systems**, specializing in intelligent agen
   <img src="https://skillicons.dev/icons?i=powershell"  width="50" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=bash"        width="50" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=postman"        width="50" alt="Postman" />
-
-  <!-- Lobehub registry icons -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
-       width="50" alt="OpenAI" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png"
-       width="50" alt="Gemini" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png"
-       width="50" alt="LangChain" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png"
-       width="50" alt="LangGraph" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png"
-       width="50" alt="MCP" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"
-       width="50" alt="Cursor" />
-</div>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="50" alt="OpenAI" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="50" alt="Gemini" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="50" alt="LangChain" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" width="50" alt="LangGraph" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" width="50" alt="MCP" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="50" alt="Cursor" />
+<p>
 
 ---
 
