@@ -23,10 +23,11 @@ Designing and deploying **Agentic AI Systems**, specializing in intelligent agen
 
 - **Agentic AI**: OpenAI Agents SDK, LangGraph, LangChain, AI-driven automation  
 - **Chatbots**: Conversational AI, natural language processing, interactive workflows  
+- **Prompt & Context Engineering**: Advanced prompt design, context optimization, system instruction strategies  
 - **Backend**: Python, FastAPI, SQLModel, PostgreSQL  
 - **Frontend**: Chainlit, Next.js, TypeScript, Tailwind CSS  
 - **DevOps**: Docker, GitHub Actions  
-- **APIs**: RESTful API design, integration, and automation
+- **APIs**: RESTful API design, integration, and automation  
 - **Protocols**: MCP (Model Context Protocol)
 
 ---
