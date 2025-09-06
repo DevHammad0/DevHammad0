@@ -18,17 +18,16 @@
 Designing and deploying **Agentic AI Systems**, specializing in intelligent agents, chatbots, and automation workflows using the OpenAI Agents SDK, LangGraph, and LangChain.
 
 ---
-
 ## 🛠 Expertise
 
-- **Agentic AI**: OpenAI Agents SDK, LangGraph, LangChain, AI-driven automation  
-- **Chatbots**: Conversational AI, natural language processing, interactive workflows  
-- **Prompt & Context Engineering**: Advanced prompt design, context optimization, system instruction strategies  
-- **Backend**: Python, FastAPI, SQLModel, PostgreSQL  
-- **Frontend**: Chainlit, Next.js, TypeScript, Tailwind CSS  
-- **DevOps**: Docker, GitHub Actions  
-- **APIs**: RESTful API design, integration, and automation  
-- **Protocols**: MCP (Model Context Protocol)
+- **Agentic AI & Frameworks**: OpenAI Agents SDK, LangGraph, LangChain for building intelligent agents with tool and API orchestration.  
+- **Prompt & Context Engineering**: Advanced prompt design, context optimization, system instructions and protocol-driven integration(MCP).  
+- **Automation Workflows**: n8n for low-code workflow design, AI-powered automations, and business/DevOps process orchestration.  
+- **Backend Development**: Python, FastAPI, SQLModel, PostgreSQL for scalable APIs and database-driven systems.  
+- **Frontend Development**: Chainlit, Next.js, TypeScript, Tailwind CSS for interactive UIs and AI-first applications.  
+- **DevOps & CI/CD**: Docker and GitHub Actions for containerized deployments and automated pipelines.  
+- **APIs & Integrations**: RESTful API design, third-party service integration, and workflow automation.  
+- **Protocols & Infrastructure**: Model Context Protocol (MCP) for standardized LLM-to-tool communication.  
 
 ---
 
