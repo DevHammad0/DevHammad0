@@ -36,11 +36,11 @@
     &nbsp;
     <img src="assets/TypeScript.svg" width="40" alt="TypeScript" />
     &nbsp;
-    <img src="assets/openai.svg" width="40" alt="OpenAI" />
+    <img src="assets/openai.png" width="40" alt="OpenAI" />
     &nbsp;
-    <img src="assets/langchain.svg" width="40" alt="LangChain" />
+    <img src="assets/langchain.png" width="40" alt="LangChain" />
     &nbsp;
-    <img src="assets/mcp.svg" width="40" alt="MCP" />
+    <img src="assets/mcp.png" width="40" alt="MCP" />
     &nbsp;
     <img src="assets/claudecode.svg" width="40" alt="Claude Code" />
     &nbsp;
