@@ -15,31 +15,40 @@
 
 ---
 
-Teaching Faculty at [PIAIC](https://www.piaic.org/). Trained 500+ developers in Agentic AI.
+<p align="center">
+    🎓 Teaching Faculty at <a href="https://www.piaic.org/">PIAIC</a> · Trained 500+ developers in Agentic AI
+</p>
 
-**What I build:** Digital FTEs · Agentic Workflows · Custom MCP Servers · Automation Pipelines
+<p align="center">
+    🛠️ Digital FTEs · Agentic Workflows · Custom MCP Servers · Automation Pipelines
+</p>
 
-**Languages:** Python · TypeScript
+<p align="center">
+    <code>Python</code> · <code>TypeScript</code>
+    <br/>
+    <code>OpenAI Agents SDK</code> · <code>LangChain</code> · <code>MCP</code> · <code>Claude Code</code> · <code>Gemini CLI</code>
+    <br/>
+    <code>FastAPI</code> · <code>Docker</code> · <code>OpenAI Chatkit</code> · <code>n8n</code>
+</p>
 
-**Stack:** OpenAI Agents SDK · LangChain · Claude Code · Gemini CLI · MCP · FastAPI · OpenAI Chatkit · Docker · n8n
-
----
-
-## ⚙️ Tech Stack
-
-<p>
-    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI" />
-    <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" />
-    <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="50" alt="OpenAI" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="50" alt="Gemini" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="50" alt="LangChain" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" width="50" alt="LangGraph" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" width="50" alt="MCP" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="50" alt="Cursor" />
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" width="50" alt="Claude" />
+<p align="center">
+    <img src="assets/Python.svg" width="40" alt="Python" />
+    &nbsp;
+    <img src="assets/TypeScript.svg" width="40" alt="TypeScript" />
+    &nbsp;
+    <img src="assets/openai.svg" width="40" alt="OpenAI" />
+    &nbsp;
+    <img src="assets/langchain.svg" width="40" alt="LangChain" />
+    &nbsp;
+    <img src="assets/mcp.svg" width="40" alt="MCP" />
+    &nbsp;
+    <img src="assets/claudecode.svg" width="40" alt="Claude Code" />
+    &nbsp;
+    <img src="assets/gemini.svg" width="40" alt="Gemini" />
+    &nbsp;
+    <img src="assets/FastAPI.svg" width="40" alt="FastAPI" />
+    &nbsp;
+    <img src="assets/Docker.svg" width="40" alt="Docker" />
 </p>
 
 ---
