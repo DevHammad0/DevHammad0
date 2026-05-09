@@ -26,7 +26,7 @@
 <p align="center">
     <code>Python</code> · <code>TypeScript</code>
     <br/>
-    <code>OpenAI Agents SDK</code> · <code>LangChain</code> · <code>MCP</code> · <code>Claude Code</code> · <code>Gemini CLI</code> · <code>Antigravity</code>
+    <code>OpenAI Agents SDK</code> · <code>LangChain</code> · <code>MCP</code> · <code>Claude Code</code> · <code>Gemini CLI</code>
     <br/>
     <code>FastAPI</code> · <code>Docker</code> · <code>OpenAI Chatkit</code> · <code>n8n</code>
 </p>
