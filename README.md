@@ -58,7 +58,7 @@
     “The night is long, but the dawn is bright.<br/>
     The struggle is real, but the reward is great.<br/>
     The journey is hard, but the destination is worth it.<br/>
-    Learning is the key, and the future is yours.”
+    Learning is the key, and the future is yours”
   </em>
 </blockquote>
 
